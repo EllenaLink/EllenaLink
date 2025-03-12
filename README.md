@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Merge  the AD mri zip and the healthy mri zip into a folder titled "train" and create a folder called test with the images of MRIs you want to test. 
+
 <!--
 **EllenaLink/EllenaLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

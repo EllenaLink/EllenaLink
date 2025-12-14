@@ -1,4 +1,5 @@
-## Hello there! 👋
+## Hello there! 
+# Current Sophmore at Northeastern University, pursuing a combined Data Science and Behavioral Neuroscience major with a stong interest in bioinformatics
 
 
 <!--

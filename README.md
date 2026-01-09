@@ -18,9 +18,13 @@ Research Assistant at Northeastern Shansky Neuroanatomy and Behavior Lab | Bosto
 
 #### Projects
 Heart Failure Mortality Prediction| Python, Scikit-Learn	(November 2025)
+
 • Analyzed a clinical dataset to identify predictors of heart failure morality
+
 • Built and evaluated Logistic Regression and K-Nearest Neighbors classifiers, achieved 82% accuracy
+
 • Conducted chi-square tests and t-tests to determine statistically significant correlations 
+
 • Identified key risk factors including serum creatinine, age and ejection fraction
 • Interpreted model coefficients and correlations to assess the clinical relevance of predictors and explain model behavior
 Pipeline for Fiber Photometry Signal Processing and Artifact Correction | Python	(December 2025)

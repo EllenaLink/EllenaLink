@@ -18,26 +18,24 @@ Research Assistant at Northeastern Shansky Neuroanatomy and Behavior Lab | Bosto
 
 #### Projects
 Heart Failure Mortality Prediction| Python, Scikit-Learn	(November 2025)
+- Analyzed a clinical dataset to identify predictors of heart failure morality
+- Built and evaluated Logistic Regression and K-Nearest Neighbors classifiers, achieved 82% accuracy
+- Conducted chi-square tests and t-tests to determine statistically significant correlations
+- Identified key risk factors including serum creatinine, age and ejection fraction
+- Interpreted model coefficients and correlations to assess the clinical relevance of predictors and explain model behavior
 
-• Analyzed a clinical dataset to identify predictors of heart failure morality
-
-• Built and evaluated Logistic Regression and K-Nearest Neighbors classifiers, achieved 82% accuracy
-
-• Conducted chi-square tests and t-tests to determine statistically significant correlations 
-
-• Identified key risk factors including serum creatinine, age and ejection fraction
-• Interpreted model coefficients and correlations to assess the clinical relevance of predictors and explain model behavior
 Pipeline for Fiber Photometry Signal Processing and Artifact Correction | Python	(December 2025)
 Developed pipeline for fiber photometry, integrating artifact corrections and experiment aligned segmentation
-• Implemented TTL-based event detection to identify experimental epochs and align neural signals with behavioral stimuli
-• Designed a derivative based artifact detection method to identify artifacts in fluorescence time series data
-• Removed corrupted signals and reconstructed missing data via linear interpolation
-• Ensured synchronized processing across multiple signal channels
+- Implemented TTL-based event detection to identify experimental epochs and align neural signals with behavioral stimuli
+- Designed a derivative based artifact detection method to identify artifacts in fluorescence time series data
+- Removed corrupted signals and reconstructed missing data via linear interpolation
+- Ensured synchronized processing across multiple signal channels
+
 Medical AI Model for Classifying Alzheimer’s MRI | Python (October 2024)
 Developed a program that classifies Alzheimer’s disease using deep learning techniques	                                       
-• Machine learning and deep learning: implemented TensorFlow and Keras
-• Integrated a pre-trained model to enhance accuracy
-• Visualized data with Matplotlib
+- Machine learning and deep learning: implemented TensorFlow and Keras
+- Integrated a pre-trained model to enhance accuracy
+- Visualized data with Matplotlib
 
 #### Skills
 Software/Languages: Python, R, SQL, JavaScript, SPSS, LaTeX, Racket, Excel

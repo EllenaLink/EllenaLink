@@ -9,12 +9,12 @@
   
 #### Experience
 Research Assistant at Northeastern Shansky Neuroanatomy and Behavior Lab | Boston MA (May 2025 - Present)           		             
-• Handled and cared for laboratory rats to prepare for behavioral and pharmacological experiments                  
-• Performed stereotaxic infusions to deliver DREDDS virus in rodent models for tract tracing	               
-• Operated a vibratome to slice brain tissue for histological analysis 
-• Mounted brain tissue samples for imaging and neuroanatomical investigation
-• Scored and analyzed behavioral videos to assess fear and aversive learning outcomes
-• Prepared and maintained stock solutions to support ongoing experimental protocols
+- Handled and cared for laboratory rats to prepare for behavioral and pharmacological experiments
+- Performed stereotaxic infusions to deliver DREDDS virus in rodent models for tract tracing
+- Operated a vibratome to slice brain tissue for histological analysis
+- Mounted brain tissue samples for imaging and neuroanatomical investigation
+- Scored and analyzed behavioral videos to assess fear and aversive learning outcomes
+- Prepared and maintained stock solutions to support ongoing experimental protocols
 
 #### Projects
 Heart Failure Mortality Prediction| Python, Scikit-Learn	(November 2025)

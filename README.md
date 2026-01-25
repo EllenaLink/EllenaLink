@@ -21,6 +21,7 @@ Software/Languages: <img width="50" height="50" alt="image" src="https://github.
 
 Data Science: Machine learning (K-Nearest neighbors, Logistic Regression, Scikit-Learn), data visualization (Matplotlib)
 Laboratory: PCR, gel electrophoresis, tissue mounting, animal handling, stereotoxic infusions (tract tracing), vibratome 
+
 Languages: English (Native), Japanese (Bilingual fluency), Chinese (Intermediate)
 
 <!--

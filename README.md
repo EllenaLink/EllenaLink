@@ -9,12 +9,12 @@
 
 
 #### Skills
-Software/Languages: <img width="50" height="5o" alt="image" src="https://github.com/user-attachments/assets/969650cf-236f-41c7-884a-14183da01790" />
+Software/Languages: <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/969650cf-236f-41c7-884a-14183da01790" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fe4017d7-a39c-48cb-92ba-0acb69981995" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28724c40-fcd6-447e-b478-146a21126af0" />
 <i class="devicon-javascript-plain"></i>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+<img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
+          
           
           
 

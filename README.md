@@ -1,4 +1,5 @@
-## Hello there! 
+## Hello there! <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9182111-0b81-4196-83c2-3d08066c2c1f" />
+
 ### I’m a Sophomore student at Northeastern University pursuing a combined major in Computer Science and Behavioral Neuroscience. I’m interested in applying computational tools to biological and behavioral questions, particularly in research and healthcare settings.
 
 #### Interests
@@ -13,8 +14,8 @@ Software/Languages: <img width="50" height="50" alt="image" src="https://github.
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/fe4017d7-a39c-48cb-92ba-0acb69981995" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/28724c40-fcd6-447e-b478-146a21126af0" />
 <i class="devicon-javascript-plain"></i>
-<img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
 <img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/racket/racket-original.svg" />
+<img width="50" height="50" alt="image" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bf22c6e6-8c65-4b64-ad3e-777d49c00e91" />
 
 

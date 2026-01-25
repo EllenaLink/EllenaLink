@@ -9,7 +9,7 @@
 
 
 #### Skills
-Software/Languages: <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/969650cf-236f-41c7-884a-14183da01790" />
+Software/Languages: <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/969650cf-236f-41c7-884a-14183da01790" />
 Python, R, SQL, JavaScript, SPSS, LaTeX, Racket, Excel
 Data Science: Machine learning (K-Nearest neighbors, Logistic Regression, Scikit-Learn), data visualization (Matplotlib)
 Laboratory: PCR, gel electrophoresis, tissue mounting, animal handling, stereotoxic infusions (tract tracing), vibratome 

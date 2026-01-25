@@ -2,7 +2,10 @@
 
 ### I’m a Sophomore student at Northeastern University pursuing a combined major in Computer Science and Behavioral Neuroscience. I’m interested in applying computational tools to biological and behavioral questions, particularly in research and healthcare settings.
 
-#### Interests
+#### Interests <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/279939ca-b576-47fd-950e-153996d44224" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/aa332777-29b2-4ee2-900f-7cb00d0d9ad3" /> <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/da85da9a-c79b-4c42-8579-4ba2d565c408" />
+
+
+
 - Computational and behavioral neuroscience
 - Biomedical and health-related data analysis
 - Neurodevelopmental and neurodivergent conditions

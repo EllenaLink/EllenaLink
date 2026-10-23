@@ -1,3 +1,4 @@
+<!--
 ## Hello there! <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b9182111-0b81-4196-83c2-3d08066c2c1f" />
 
 ### I’m a Sophomore student at Northeastern University pursuing a combined major in Data Science and Behavioral Neuroscience. I’m interested in applying computational tools to biological and behavioral questions, particularly in research and healthcare settings.
@@ -28,7 +29,7 @@ Laboratory: PCR, gel electrophoresis, tissue mounting, animal handling, stereoto
 
 Languages: English (Native), Japanese (Bilingual fluency), Chinese (Intermediate)
 
-<!--
+
 **EllenaLink/EllenaLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
